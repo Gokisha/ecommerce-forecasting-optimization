@@ -1,0 +1,556 @@
+product_name,product_category,price,inventory_level,supplier_name,supplier_contact,date,order_lead_time,demand_quantity,demand_trend,seasonal_discount,Seasonality Factors,weather_condition,product_ID
+Instant Pot,Kitchen,717.81,7084,Fliptune,250-221-0942,3/31/2022,21,8707,37,0.03,holiday,sunny,10001
+Wrap Jumpsuit,Clothing - Jumpsuits,583.34,8805,Tagpad,258-931-5908,12/19/2023,14,42481,81,0.0,NAN,sunny,11002
+Spinach and Ricotta Ravioli,Food - Pasta,707.18,1835,Lazzy,961-476-2675,9/1/2023,22,56241,79,0.4,NAN,sunny,12003
+Maple Pecan Pancake Mix,Food - Breakfast,417.8,3644,Katz,453-861-4505,5/14/2024,4,23887,26,0.25,festival,rainy,13004
+Egg Noodles,Food - Grains,868.24,1820,Linkbridge,801-909-8304,5/2/2024,22,70465,-26,0.22,NAN,rainy,14005
+Luxury Bathrobe,Clothing,849.24,4577,Viva,787-719-6717,11/22/2023,22,6837,3,0.24,NAN,sunny,15006
+Reversible Comforter Set,Home,507.19,5111,Wikizz,495-965-0918,12/9/2022,19,33558,65,0.38,NAN,cloudy,16007
+Adjustable Stand for Tablets and Smartphones,Electronics,134.17,4162,Jabbersphere,633-313-9723,12/1/2024,6,14694,-64,0.01,festival,cloudy,17008
+Cranberry Almond Cookies,Food - Bakery,324.08,2711,Fivechat,554-381-9156,10/24/2024,5,80780,-54,0.34,festival,rainy,18009
+Wireless Gaming Headset,Gaming,376.06,5221,Tagfeed,994-178-6882,10/30/2022,12,4045,-53,0.25,holiday,sunny,19010
+Pasta Primavera,Food - Frozen Foods,738.44,1380,Jabberstorm,529-884-2692,5/20/2023,13,78237,11,0.38,NAN,sunny,20011
+Sliced Olives,Food - Condiments,809.16,2254,Skyba,667-350-4415,9/12/2023,2,48596,4,0.19,holiday,rainy,21012
+Multi-Functional Rice Cooker,Kitchen,48.75,5009,Tekfly,770-359-6041,12/16/2023,29,62708,-78,0.17,NAN,sunny,10013
+Dog Walking Waist Pack,Pets,811.15,4915,Thoughtworks,961-547-9091,12/25/2022,12,40530,62,0.38,NAN,rainy,22014
+Maple Oatmeal,Food - Breakfast,871.92,9359,Jaxworks,821-511-5724,11/29/2023,20,70819,38,0.43,NAN,cloudy,13015
+Aged White Cheddar Popcorn,Food - Snacks,582.07,9673,Topiczoom,508-961-1231,7/7/2023,24,27132,61,0.39,festival,windy,23016
+Floral Summer Dress,Clothing - Dresses,639.33,7672,Skyndu,634-882-5990,4/3/2024,11,42845,-3,0.21,NAN,windy,24017
+Sriracha Honey Glaze,Food - Sauces,298.9,1198,Livepath,148-864-9620,6/3/2022,18,87356,-17,0.22,festival,sunny,25018
+Pet Nail Clipper,Pets,298.94,2256,Zoovu,378-835-6006,6/6/2023,4,52876,73,0.04,holiday,cloudy,22019
+Kids' Trampoline,Toys,928.43,934,Eamia,818-754-2596,9/11/2023,1,6506,23,0.24,holiday,sunny,26020
+Multifunctional Baby Bottle Warmer,Baby,919.51,1788,Voonder,458-978-8021,6/12/2022,8,81840,76,0.33,holiday,sunny,27021
+Organic Baby Spinach,Food - Produce,828.51,5762,Livetube,470-305-9434,12/18/2022,27,71463,6,0.46,holiday,windy,28022
+Buffalo Sauce,Food - Condiments,929.47,1313,Feedfish,911-442-9101,9/7/2023,20,71247,100,0.39,festival,rainy,21023
+Portable Air Conditioner,Home Appliances,617.41,8415,Gigazoom,375-783-7523,2/10/2023,10,78537,-79,0.32,NAN,cloudy,29024
+Maple Almond Butter,Food - Nut Butters,559.91,7967,Shufflester,610-227-2988,8/9/2024,21,34304,85,0.26,NAN,sunny,30025
+Kids' Building Blocks,Toys,287.24,2407,Podcat,214-892-3674,6/16/2022,6,2520,-24,0.09,NAN,rainy,26026
+Pasta Sauce Mix,Food - Sauces,482.09,1342,Buzzdog,470-416-4798,6/25/2024,8,86887,-54,0.36,NAN,foggy,25027
+Personal Blender,Kitchen,752.67,5945,Leenti,466-552-5272,6/22/2024,9,36329,-20,0.07,holiday,windy,10028
+Kids' Outdoor Explorer Kit,Toys,621.56,7383,Dabvine,866-260-1223,11/14/2022,28,16148,-76,0.09,holiday,windy,26029
+Oven-Baked Chicken Tenders,Food - Meat,487.29,7270,Skidoo,156-251-7114,12/3/2023,21,75722,0,0.23,holiday,sunny,31030
+Ski Goggles,Sports,939.24,4118,Flipstorm,176-331-7499,12/28/2024,25,54719,-4,0.38,NAN,cloudy,32031
+Diced Tomatoes (canned),Food - Canned Goods,52.85,7235,Reallinks,616-586-4245,4/19/2024,23,76241,-45,0.47,festival,rainy,33032
+Heavy Duty Gardening Tool Set,Garden,731.19,8929,Leenti,546-169-8059,7/29/2023,4,22751,75,0.42,holiday,foggy,34033
+Bamboo Memory Foam Pillow,Home,687.09,6995,Photofeed,974-999-8780,9/18/2024,24,79079,-35,0.04,festival,windy,16034
+Chunky Knit Sweater,Clothing - Tops,474.64,447,Trudeo,140-652-0236,7/19/2024,28,80318,37,0.01,NAN,windy,35035
+Guitar Tuner,Music,949.08,643,Zoozzy,447-740-8237,6/18/2022,26,62035,-19,0.34,holiday,cloudy,36036
+Wireless Earbud Silicone Covers,Accessories,361.18,9021,Shuffledrive,116-818-0120,4/13/2024,21,16184,-4,0.22,NAN,cloudy,37037
+Plaid Flannel Shirt,Clothing - Tops,900.33,5990,Zoombeat,689-726-6951,5/30/2023,11,70528,-28,0.14,holiday,windy,35038
+Ricotta Cheese,Food - Dairy,43.53,7986,Agivu,390-329-8523,6/24/2023,17,34552,-83,0.18,holiday,windy,38039
+Feta Cheese Crumbles,Food - Dairy,420.32,912,Rhynyx,396-771-1973,7/30/2022,25,90310,90,0.08,holiday,rainy,38040
+Balsamic Fig Dressing,Food - Condiments,252.05,18,Digitube,676-966-7763,6/23/2024,16,51883,-26,0.18,holiday,windy,21041
+Laptop Backpack,Accessories,328.85,3981,Wordware,885-597-1944,2/27/2022,1,62600,-47,0.33,festival,cloudy,37042
+Portable Projector,Electronics,56.62,5561,Kamba,345-498-9643,8/17/2022,22,60502,-78,0.27,festival,sunny,17043
+Spicy Thai Coconut Soup,Food - Soups,517.67,1276,Ntags,114-159-1491,7/30/2024,25,26760,74,0.16,holiday,windy,39044
+Fettuccine Alfredo Dinner Kit,Food - Prepared Meals,556.39,9417,Feedfish,758-770-5751,7/30/2023,12,76948,3,0.04,holiday,foggy,40045
+Sesame Noodles,Food - Grab-and-Go,974.53,1678,Brightdog,373-355-7308,12/17/2024,9,38580,20,0.44,festival,rainy,41046
+Chipotle Seasoning Blend,Food - Spices,22.28,1551,Feedfire,518-916-9331,7/19/2022,13,67156,-79,0.09,festival,sunny,42047
+Curried Lentil Salad,Food - Salads,243.6,4250,Voomm,294-403-8220,3/11/2022,5,34317,-87,0.47,holiday,cloudy,43048
+Backpack,Accessories,234.36,2367,Jetpulse,738-750-1734,8/4/2024,19,21703,-19,0.11,festival,windy,37049
+Electric Rice Cooker,Kitchen,981.09,2627,Tagtune,615-993-1737,1/19/2022,22,78909,-59,0.48,festival,foggy,10050
+Mango Chutney,Food - Condiments,877.91,7030,Muxo,153-520-6171,9/4/2023,27,74554,27,0.14,festival,rainy,21051
+Wireless Charging Station,Electronics,640.14,3822,Fanoodle,187-623-1685,8/6/2024,29,59343,-28,0.41,festival,windy,17052
+Children's Gardening Set,Toys,856.7,3849,Devpulse,845-241-6950,8/19/2024,16,92353,1,0.09,holiday,rainy,26053
+Outdoor Camping Lantern,Outdoor,255.91,5863,Kwideo,176-366-7347,8/22/2023,18,68807,4,0.24,NAN,foggy,44054
+Portable Air Purifier,Health,502.91,2984,Topiclounge,522-668-2226,7/27/2024,3,7734,98,0.04,holiday,foggy,45055
+Yoga Wheel,Fitness,248.37,2124,Kazio,202-937-9627,4/27/2022,8,46492,72,0.31,festival,rainy,46056
+Gingerbread House Kit,Food - Baking,370.29,4421,Skinder,207-645-4882,6/19/2024,26,61268,13,0.31,holiday,windy,47057
+Peach Slices (canned),Food - Canned Goods,876.67,340,Tanoodle,589-582-6620,4/12/2024,30,27426,42,0.07,holiday,foggy,33058
+Sesame Garlic Noodles,Food - Pasta,902.81,8676,Vinte,841-692-2018,10/25/2023,18,516,55,0.06,holiday,windy,12059
+Fashionable Scarves Set,Clothing,373.62,4831,Quamba,977-884-1384,5/10/2024,28,95615,75,0.5,holiday,foggy,15060
+Air Fryer Oven,Kitchen,122.41,3600,Dabshots,268-173-9582,7/2/2024,28,92007,-95,0.14,NAN,foggy,10061
+Pistachios,Food - Nuts,215.9,5052,Rhycero,352-982-2653,10/24/2022,23,79927,65,0.43,NAN,rainy,48062
+Bluetooth Shower Speaker,Audio,101.19,9682,Flipbug,466-583-8557,5/21/2023,9,96551,35,0.02,festival,sunny,49063
+Puzzle Mat,Toys,824.31,1394,Twitterbridge,832-551-9934,5/19/2024,23,25572,-91,0.24,festival,foggy,26064
+Strawberry Banana Smoothie Pack,Food - Frozen,31.51,2388,BlogXS,902-786-6090,2/4/2024,28,2198,-24,0.35,holiday,windy,50065
+High-Speed HDMI Cable,Electronics,521.87,2896,Feedbug,242-123-5384,12/6/2024,3,73107,-31,0.46,holiday,windy,17066
+Teriyaki Stir-Fry Sauce,Food - Condiments,596.55,491,Jabbercube,395-633-0315,6/29/2024,6,14284,-29,0.23,NAN,sunny,21067
+Pet Carrier Backpack,Pets,126.69,5050,Divape,233-137-8759,7/12/2022,21,78060,-97,0.16,NAN,sunny,22068
+Travel Pillow,Travel,188.53,6917,Centidel,620-442-3361,7/16/2023,24,7545,-15,0.1,NAN,sunny,51069
+Chino Shorts,Clothing - Bottoms,997.57,4095,Quatz,215-206-6091,2/25/2023,26,41990,92,0.1,holiday,cloudy,52070
+Nutty Trail Mix,Food - Snacks,171.63,8692,Omba,616-146-6987,11/6/2024,14,13995,86,0.49,NAN,cloudy,23071
+Wall Decals for Kids,Home,566.89,5159,Kanoodle,209-131-2906,6/14/2023,15,6502,86,0.15,festival,cloudy,16072
+LED Under Cabinet Lighting,Home,995.88,5213,Quinu,321-304-6030,2/16/2023,1,24148,-30,0.47,holiday,rainy,16073
+DIY Candle Kit,Crafts,979.57,8552,Fadeo,720-485-2471,11/14/2024,15,39953,63,0.07,holiday,cloudy,53074
+Pineapple Coconut Bars,Food - Snacks,255.83,6438,Quamba,480-677-4785,11/22/2023,2,98531,4,0.28,holiday,windy,23075
+Jalapeño Cornbread,Food - Bakery,162.26,7213,Browsedrive,386-240-3297,11/6/2022,15,58740,-56,0.37,festival,cloudy,18076
+Lentils,Food - Grains,144.86,9029,Zoombox,702-972-2804,9/27/2022,24,72867,69,0.17,festival,sunny,14077
+Adjustable Window Blind,Home,979.44,5465,Blognation,455-351-1364,1/27/2023,19,54554,-55,0.11,festival,cloudy,16078
+Vegetable Stir-Fry Kit,Food - Produce,178.19,5580,Bluezoom,291-549-4748,12/12/2024,9,88719,71,0.33,NAN,rainy,28079
+Garden Tool Belt,Garden,973.3,2542,Eidel,748-392-4804,8/2/2024,6,45085,-20,0.38,festival,windy,34080
+Dark Chocolate Tart,Food - Desserts,67.18,2413,Quinu,156-502-9651,6/6/2024,25,77121,-8,0.36,NAN,windy,54081
+Gardening Kneeler and Seat,Garden,35.36,9803,Camido,436-605-1562,4/6/2023,25,47247,77,0.28,NAN,cloudy,34082
+Honey Garlic Shrimp,Food - Seafood,60.03,4014,Devify,498-854-3863,5/4/2022,18,94920,89,0.07,holiday,cloudy,55083
+DIY Candle Making Kit,Crafts,359.65,3696,Bluejam,227-923-8953,5/28/2022,28,92871,-75,0.09,NAN,rainy,53084
+Miso Soup Starter,Food - Soups,558.49,4271,Kwideo,836-789-4156,7/21/2023,29,3031,-54,0.06,festival,sunny,39085
+Car Emergency Kit,Automotive,662.04,982,Zoombox,617-499-7245,10/9/2024,7,18013,58,0.45,holiday,rainy,56086
+Eco-Friendly Beeswax Wraps,Kitchen,645.1,1275,Brightbean,341-785-3274,10/6/2022,25,69615,24,0.05,NAN,cloudy,10087
+Smart Light Switch,Smart Home,84.3,8774,Meetz,322-241-5698,11/16/2022,14,36658,-87,0.18,festival,foggy,57088
+Mobile Workbench,Tools,843.46,388,Twimbo,780-945-7208,10/10/2024,4,90215,-23,0.01,festival,rainy,58089
+Wall-Mounted Organizer,Home,233.75,745,Jamia,559-419-5742,6/12/2024,17,68945,90,0.35,holiday,windy,16090
+Sunglasses,Accessories,782.08,5857,Realblab,631-163-3631,2/5/2022,16,44094,-26,0.42,holiday,sunny,37091
+Electric Air Pump,Outdoor,627.58,1659,Rhybox,901-230-8543,4/29/2023,27,65238,-37,0.03,holiday,rainy,44092
+Fitness Mat,Fitness,578.91,2889,Leexo,768-523-2678,7/3/2022,25,30232,73,0.17,NAN,foggy,46093
+Pineapple Teriyaki Chicken Mix,Food - Meat,934.44,6510,Edgepulse,322-314-7308,6/16/2022,29,39526,43,0.43,festival,rainy,31094
+Chilli Lime Corn on the Cob,Food - Vegetable,448.9,2470,Linklinks,458-187-3238,7/9/2024,7,87131,-26,0.22,festival,rainy,59095
+Blue Corn Tortilla Chips,Food - Snacks,906.16,2023,Yombu,408-219-7677,2/7/2023,8,26623,54,0.12,festival,cloudy,23096
+Puzzle Mat,Toys,407.12,2561,Aivee,963-354-2682,6/15/2022,18,79659,-33,0.02,festival,rainy,26064
+Honey Glazed Carrots,Food - Produce,893.55,1189,Voonder,710-786-5170,9/28/2022,27,73355,94,0.31,NAN,windy,28097
+Pet Grooming Brush,Pets,43.39,8240,Yadel,889-372-8826,3/23/2023,19,74683,26,0.13,festival,cloudy,22098
+Nordic Berry Smoothie,Food - Frozen Foods,443.24,1946,Rhyzio,226-637-4607,3/9/2022,26,56946,-60,0.12,festival,rainy,20099
+Tomatillo Salsa,Food - Condiments,681.75,3323,Jamia,416-810-2251,1/9/2024,16,12294,-36,0.32,NAN,foggy,21100
+Pumpkin Waffles,Food - Breakfast,403.09,5223,Jaxnation,151-925-6544,4/8/2022,29,93024,51,0.42,holiday,windy,13101
+Compact Portable Grill,Outdoor,545.13,6223,Ntag,930-231-3313,3/21/2024,9,84084,-1,0.36,holiday,cloudy,44102
+Portable Solar Camp Shower,Outdoor,102.12,8853,Yodel,260-143-9602,9/1/2022,7,54559,-50,0.21,holiday,windy,44103
+Bamboo Toothbrush,Health,279.08,9444,Topicware,506-154-4496,12/15/2023,22,12136,68,0.19,NAN,foggy,45104
+Crispy Kale Chips,Food - Snacks,624.94,6651,Babbleset,447-553-5634,9/18/2024,19,51971,21,0.01,NAN,cloudy,23105
+Weighted Blanket for Adults,Health,677.03,1908,Browsebug,569-125-2437,6/23/2022,29,95920,-17,0.43,festival,foggy,45106
+Honey Sesame Chicken,Food - Frozen Food,321.42,5272,Livetube,209-320-3906,11/4/2023,27,99316,79,0.38,holiday,cloudy,60107
+Car Escape Tool,Automotive,174.03,9974,Muxo,495-835-8099,2/22/2022,19,83185,-86,0.07,holiday,foggy,56108
+Magnetic Whiteboard,Office,497.11,5013,Skivee,928-397-8542,9/19/2022,19,47453,-12,0.22,holiday,sunny,61109
+Robot Vacuum Cleaner,Home Appliances,120.85,5511,Livetube,953-328-3009,10/30/2022,17,14300,25,0.31,festival,windy,29110
+Diced Tomatoes (canned),Food - Canned Goods,563.86,7300,Feedbug,171-698-0541,1/1/2024,1,66778,-70,0.09,holiday,rainy,33032
+Chocolate Fudge Ice Cream,Food - Frozen Desserts,513.55,6299,Yabox,223-893-4746,6/26/2024,2,2934,87,0.28,NAN,windy,62111
+Compact Umbrella,Accessories,670.26,9383,Quimba,619-592-4728,7/27/2023,12,14051,34,0.0,festival,rainy,37112
+Fashionable Fanny Pack,Clothing - Accessories,153.46,8753,Nlounge,449-466-1702,1/1/2022,9,30816,-30,0.18,holiday,cloudy,63113
+Stainless Steel Straws,Kitchen,427.75,7262,Ooba,401-732-0317,4/21/2023,11,75757,4,0.09,NAN,cloudy,10114
+Puffed Rice Cake,Food - Snacks,673.68,8278,Photobug,979-152-1548,6/29/2023,19,22746,60,0.08,NAN,windy,23115
+Fresh Cilantro,Food - Produce,109.81,2038,Twimbo,338-509-0731,10/4/2022,21,37077,53,0.26,NAN,sunny,28116
+Inflatable Paddle Board,Outdoor,718.09,548,Skinix,879-621-4038,11/17/2022,25,9619,-19,0.41,holiday,rainy,44117
+Chocolate Chip Energy Balls,Food - Snacks,553.17,4006,Oyoyo,658-272-4708,11/14/2024,15,69603,59,0.25,NAN,windy,23118
+Solar Garden Lights,Outdoor,262.4,4677,Wikizz,238-694-5398,7/2/2022,23,18271,-48,0.13,festival,foggy,44119
+High-Low Hem Tee,Clothing - Tops,743.77,1650,Youspan,180-115-6375,6/11/2023,7,61343,5,0.3,NAN,windy,35120
+Tailgating Set,Outdoor,157.42,6887,Jabbertype,358-674-8456,2/7/2022,2,95327,-69,0.27,festival,sunny,44121
+Digital Food Scale,Kitchen,145.37,1899,Skynoodle,943-800-9583,9/30/2023,29,32001,87,0.06,holiday,foggy,10122
+Tailored Blazer,Clothing - Outerwear,503.59,9000,Buzzbean,793-481-8069,8/6/2023,15,1957,-5,0.16,holiday,rainy,64123
+Rain Jacket,Clothing,559.98,8229,Roodel,634-405-0889,7/21/2023,12,54452,68,0.42,holiday,sunny,15124
+Car Vacuum Cleaner,Automotive,758.24,6504,Zoomzone,456-660-8066,2/5/2024,10,18557,73,0.06,holiday,windy,56125
+Black Bean & Corn Salad,Food - Salads,215.23,6544,Zooveo,433-555-3717,9/18/2024,29,32201,-43,0.18,festival,cloudy,43126
+Karaoke Microphone,Music,830.75,8626,Fadeo,706-643-0191,7/3/2023,24,26234,-100,0.12,holiday,sunny,36127
+Multifunctional Baby Bottle Warmer,Baby,983.22,4679,Buzzdog,931-801-4366,3/24/2023,11,37240,91,0.23,NAN,rainy,27021
+Foldable Picnic Table,Outdoor,746.83,2539,Zoombox,753-193-2408,12/21/2024,7,81090,90,0.29,holiday,sunny,44128
+Electric Heat Press Machine,Crafts,650.81,9258,Topicware,290-184-2152,3/23/2024,6,57172,-83,0.32,holiday,sunny,53129
+Cold Brew Coffee Concentrate,Food - Beverages,813.21,6368,Nlounge,454-810-1147,3/14/2024,12,82681,-95,0.19,NAN,rainy,65130
+Kids' Craft Supplies Set,Toys,333.6,8651,Eidel,780-375-9235,8/30/2023,9,40991,69,0.01,holiday,sunny,26131
+Video Camera,Electronics,862.58,2080,Demizz,106-607-8768,8/13/2024,2,61778,79,0.24,holiday,foggy,17132
+Ranch Dressing,Food - Condiments,160.67,8650,Trudeo,704-190-1204,9/15/2022,5,2837,88,0.24,holiday,windy,21133
+Organic Chia Seeds,Food - Health Foods,304.48,3416,Eimbee,202-187-0744,3/27/2022,21,43444,-96,0.35,festival,sunny,66134
+Savory Oatmeal Cups,Food - Breakfast,417.73,4082,Devify,377-747-7473,8/8/2023,26,83602,40,0.2,holiday,foggy,13135
+Electric Food Steamer,Kitchen,807.44,1460,Shuffletag,382-109-3861,10/8/2024,12,98522,98,0.22,festival,rainy,10136
+Smartphone Camera Lens Kit,Photography,720.59,4529,Rhybox,346-348-5974,1/25/2023,13,35564,50,0.1,NAN,rainy,67137
+Snack Container Set,Kitchen,167.68,6515,Meevee,635-618-9091,4/1/2024,20,31522,64,0.29,holiday,rainy,10138
+Picnic Blanket,Outdoor,885.66,2989,Ooba,337-930-6197,11/24/2024,17,25725,-8,0.21,NAN,rainy,44139
+Plant-Based Protein Bars,Health,9.33,2149,Shuffletag,445-337-7406,5/22/2022,27,66739,68,0.21,holiday,cloudy,45140
+Sun Protection Clothing,Clothing,988.81,2067,Topicstorm,914-192-7257,1/10/2022,28,44811,4,0.42,NAN,foggy,15141
+Vegetarian Stir Fry Sauce,Food - Condiments,431.59,3646,Dynava,884-921-2281,2/10/2022,16,53324,8,0.09,NAN,foggy,21142
+Apple Juice,Food - Beverages,457.33,1102,Browsetype,782-227-8248,3/22/2024,30,45860,32,0.37,festival,foggy,65143
+Portable Folding Picnic Table,Outdoor,773.38,1251,Mydo,633-551-8515,3/21/2024,5,59853,18,0.34,holiday,foggy,44144
+Avocado Oil Mayo,Food - Condiments,917.1,2915,Oyoba,527-591-2285,8/3/2024,13,58578,70,0.15,festival,sunny,21145
+Pepperoni Pizza Roll-Ups,Food - Frozen Foods,165.06,4248,Innojam,612-403-6573,8/14/2023,18,18523,-79,0.35,holiday,foggy,20146
+Adjustable Pet Feeder,Pets,617.58,653,Trudeo,977-788-3415,9/29/2024,6,15801,68,0.05,holiday,rainy,22147
+Marinated Artichokes,Food - Vegetables,750.91,6865,Brainverse,661-420-5785,9/7/2022,12,43776,-91,0.24,festival,sunny,68148
+Artisan Cornbread Mix,Food - Baking,880.38,853,Einti,513-161-4172,8/20/2022,9,36619,-57,0.3,festival,cloudy,47149
+Sporty Slide Sandals,Clothing - Footwear,347.04,5960,Brainbox,319-532-2401,3/26/2022,20,23302,-12,0.17,holiday,sunny,69150
+Heart-Shaped Baking Molds,Kitchen,28.82,6919,Babbleopia,547-211-4294,2/15/2023,10,75512,0,0.42,festival,cloudy,10151
+LED Under Cabinet Lighting,Home,846.94,1021,JumpXS,684-591-6706,1/12/2022,23,33900,21,0.23,holiday,sunny,16073
+Fashionable Scarves Set,Clothing,519.95,8601,Miboo,474-894-0490,5/18/2023,10,57625,-74,0.04,holiday,windy,15060
+Maple Bacon Jerky,Food - Meat,308.3,2410,Tavu,281-228-7205,8/7/2023,6,5068,-61,0.29,holiday,cloudy,31152
+Mango Chutney,Food - Condiments,137.18,2916,Ntags,284-586-5810,7/17/2024,29,72275,-95,0.07,festival,sunny,21051
+Organic Coconut Sugar,Food - Baking Goods,360.6,905,Meezzy,989-293-8525,12/9/2023,7,40649,-51,0.24,festival,windy,70153
+Peanut Butter Pretzel Bites,Food - Snacks,191.31,2058,Yombu,558-669-9813,2/24/2024,26,80730,93,0.42,festival,cloudy,23154
+Caramel Sauce,Food - Condiments,466.24,822,Twiyo,679-687-2448,7/3/2022,8,87666,-32,0.35,NAN,foggy,21155
+Folding Backpack Chair,Outdoor,62.0,2497,Izio,166-892-6763,12/4/2023,27,13585,-86,0.14,holiday,windy,44156
+Suede Ankle Booties,Clothing - Footwear,793.88,6428,Vimbo,837-630-7437,11/7/2022,13,75290,52,0.31,holiday,sunny,69157
+Cauliflower Gnocchi,Food - Frozen Foods,490.81,6905,Realcube,734-878-8290,12/29/2023,28,17251,-23,0.39,festival,foggy,20158
+Cotton Quilted Throw Blanket,Home,837.64,1602,Tagfeed,702-418-3523,9/1/2023,16,2070,-40,0.39,holiday,rainy,16159
+Electric Food Slicer,Kitchen,458.98,1533,Divavu,885-736-0739,6/19/2023,27,98199,42,0.42,festival,sunny,10160
+Yoga Blocks,Fitness,710.82,4529,Gigashots,598-110-4111,4/2/2024,24,10478,-23,0.14,festival,foggy,46161
+Compressible Packing Cubes,Travel,840.25,8774,Vimbo,136-890-6169,11/9/2023,5,79492,-78,0.16,holiday,cloudy,51162
+Luxury Bath Salts,Beauty,315.88,1148,Youopia,575-585-3870,11/15/2024,9,54168,46,0.38,NAN,foggy,71163
+Oatmeal Raisin Cookies,Food - Baked Goods,744.71,7957,Dynabox,591-859-7443,3/26/2022,3,96921,1,0.41,festival,cloudy,72164
+Travel Hair Straightener,Beauty,428.22,2297,Realcube,782-436-6153,7/27/2022,19,99099,-73,0.0,NAN,windy,71165
+Memory Foam Mattress Pad,Home,299.05,1592,Meevee,192-284-1622,6/13/2023,25,82925,-73,0.38,festival,foggy,16166
+Marinara Parmesan Baked Ziti,Food - Frozen Meals,673.35,270,Thoughtbridge,459-452-7373,9/17/2022,27,28524,84,0.19,festival,windy,73167
+Roasted Garlic,Food - Condiments,525.0,6176,Rhynyx,782-242-4464,5/13/2023,18,33730,-25,0.41,NAN,foggy,21168
+Vegetable Lasagna,Food - Frozen Foods,314.0,2281,Babbleset,688-437-4708,8/20/2024,4,53203,30,0.26,NAN,windy,20169
+Pineapple Rings,Food - Canned Goods,293.42,4195,Janyx,523-896-7610,12/29/2024,16,69062,-75,0.37,NAN,foggy,33170
+Garlic Naan Bread,Food - Bakery,79.6,5124,Yodoo,644-942-3109,12/2/2022,14,33951,-82,0.02,festival,sunny,18171
+Pumpkin Ice Cream,Food - Frozen Foods,177.83,5807,Yotz,139-380-8835,7/12/2022,19,8306,-16,0.44,NAN,sunny,20172
+Rice Noodles,Food - Grains,207.69,2511,Skyndu,774-973-5108,7/19/2022,17,38896,-22,0.02,holiday,foggy,14173
+Honey Ginger Tea,Food - Beverages,523.03,3224,Ooba,132-800-2424,3/3/2024,1,58043,11,0.07,holiday,windy,65174
+Cotton Pajama Set,Clothing - Loungewear,972.83,5146,Viva,830-118-7489,6/21/2024,3,26507,-13,0.21,holiday,cloudy,74175
+Plant-Based Protein Bars,Health,930.36,5873,Yodo,385-474-5498,5/24/2023,30,31577,-38,0.04,festival,rainy,45140
+Pocket Blanket,Outdoor,31.21,3753,Photolist,806-598-5620,10/16/2024,16,44621,57,0.27,festival,foggy,44176
+Eco-Friendly Cleaning Cloths,Home,297.18,3981,Kare,201-193-3393,4/15/2023,24,75529,94,0.25,holiday,foggy,16177
+Spicy BBQ Sauce,Food - Condiments,535.78,520,Layo,107-169-0157,8/2/2022,2,14353,1,0.12,holiday,cloudy,21178
+Garden Vegetable Soup,Food - Canned Goods,365.16,8929,Buzzdog,365-138-7035,7/31/2022,13,26424,76,0.29,holiday,rainy,33179
+Peach Mango Smoothie Mix,Food - Beverages,741.77,7794,Edgetag,601-181-2511,7/31/2023,3,15839,-59,0.18,NAN,windy,65180
+Vegan Tacos,Food - Frozen Foods,717.52,4356,Skimia,651-994-8706,9/8/2023,18,83549,-62,0.43,festival,rainy,20181
+Beef Tacos,Food - Meat,263.5,5550,Meedoo,376-237-0623,1/11/2022,3,14414,57,0.18,NAN,windy,31182
+Digital Meat Thermometer,Kitchen,539.11,7425,Twitterworks,566-504-8016,10/29/2022,22,47170,-77,0.23,holiday,sunny,10183
+Sweet Potato Fries,Food - Frozen Foods,635.62,8483,Tagtune,362-220-6176,5/6/2023,26,67581,18,0.41,holiday,rainy,20184
+Handcrafted Wooden Jewelry Box,Accessories,478.92,2042,Wordware,652-697-9735,9/20/2023,21,54292,-50,0.01,NAN,foggy,37185
+Outdoor Inflatable Pool,Outdoor,581.01,2633,Demimbu,134-908-0588,12/15/2023,29,84766,-6,0.13,holiday,sunny,44186
+Kids' Science Experiment Kit,Toys,240.82,2602,Oyope,617-759-5522,9/5/2022,27,76531,-100,0.39,NAN,cloudy,26187
+Chicken Fajita Kit,Food - Prepared Foods,896.35,7686,Brainbox,788-510-3185,3/22/2022,29,10482,-70,0.31,holiday,rainy,75188
+Spinach Artichoke Dip,Food - Snacks,331.41,4293,JumpXS,497-851-6170,6/15/2022,26,2627,-66,0.22,holiday,sunny,23189
+Organic Black Beans,Food - Canned Goods,22.75,5562,Eayo,486-418-5585,5/2/2024,20,68365,-71,0.25,festival,sunny,33190
+Pet Hair Vacuum Attachment,Pets,945.62,7351,Aimbu,268-595-9903,11/9/2023,24,22846,-1,0.24,holiday,rainy,22191
+Frozen Berry Blend,Food - Frozen Foods,938.97,175,Centimia,890-677-6329,9/18/2022,23,86868,19,0.23,holiday,rainy,20192
+Classic Slim Fit Shirt,Clothing - Shirts,867.18,5096,Linktype,377-632-1550,2/11/2024,18,2485,5,0.12,NAN,foggy,76193
+Chicken Salad Kit,Food - Prepared Foods,64.63,8164,Shuffletag,150-439-3920,4/10/2023,3,42618,31,0.35,NAN,foggy,75194
+Chia Seed Pudding Mix,Food - Breakfast,235.87,3871,Wikido,475-530-4040,10/26/2023,25,10772,13,0.13,holiday,foggy,13195
+Thyme,Food - Fresh Produce,765.58,4106,Voomm,535-273-3399,1/23/2022,20,99629,-64,0.34,NAN,sunny,77196
+Vintage Button-Down Shirt,Clothing - Shirts,411.68,9547,Zooxo,450-357-4948,9/17/2022,21,90045,-86,0.3,NAN,windy,76197
+Rice Pilaf Mix,Food - Grains,947.81,264,Rhynoodle,725-277-1548,12/17/2022,29,25066,-6,0.38,festival,windy,14198
+Walnut Halves,Food - Nuts,591.08,5893,Twinder,547-229-4268,5/22/2024,19,36983,-100,0.5,holiday,sunny,48199
+Chocolate Chip Cookie Mix,Food - Baking,839.52,7334,Yakitri,296-933-0883,7/2/2024,30,22750,69,0.03,festival,foggy,47200
+Smartphone UV Sanitizer,Health,162.82,1211,LiveZ,535-355-0072,3/20/2024,27,36763,-72,0.38,holiday,cloudy,45201
+Solar String Lights,Outdoor,108.96,3879,Katz,714-371-0790,2/17/2024,27,39849,63,0.4,holiday,sunny,44202
+Smart Wi-Fi Light Bulbs,Smart Home,78.67,2061,Skipfire,803-698-1564,2/18/2024,26,1453,-44,0.44,festival,foggy,57203
+Laundry Detergent,Food - Household,327.16,8492,Meedoo,634-943-4780,6/1/2023,19,47426,40,0.01,holiday,cloudy,78204
+Pear and Gorgonzola Salad,Food - Salads,664.23,1649,Eayo,603-237-4892,4/8/2023,23,54741,2,0.25,festival,rainy,43205
+Tea Set with Infuser,Kitchen,334.67,1449,Jabbersphere,390-439-0909,6/27/2024,10,63281,-89,0.4,holiday,foggy,10206
+Vanilla Bean Greek Yogurt,Food - Dairy,495.67,9352,InnoZ,296-148-9443,7/31/2022,30,17300,61,0.18,festival,windy,38207
+Peach Slices (canned),Food - Canned Goods,923.2,8502,Bubbletube,717-427-3363,10/17/2022,5,33307,-3,0.18,NAN,windy,33058
+Feta Cheese Crumbles,Food - Dairy,174.43,496,Kwideo,338-278-6287,3/20/2024,6,50187,-91,0.47,NAN,cloudy,38040
+Over-The-Door Shoe Organizer,Home,128.96,4370,Linkbridge,383-933-7469,1/13/2023,18,98684,-19,0.17,NAN,sunny,16208
+Compressed Towel Tablets,Travel,739.49,6323,Jabberstorm,106-531-6642,5/11/2022,8,48169,100,0.4,holiday,sunny,51209
+Coconut Milk,Food - Canned Goods,762.29,3780,Fivespan,919-698-4476,4/23/2023,7,49723,29,0.24,holiday,sunny,33210
+Incense Holder,Home,247.64,9681,Flashspan,421-119-2547,3/16/2023,20,59220,19,0.2,festival,cloudy,16211
+Microfiber Cleaning Cloths,Home,516.72,7559,Aibox,898-947-7751,6/5/2024,23,38234,17,0.43,festival,cloudy,16212
+Maple Chipotle Glaze,Food - Condiments,887.4,2531,Jetpulse,278-843-0038,1/19/2022,11,77190,-60,0.45,holiday,cloudy,21213
+Quinoa Salad,Food - Prepared Foods,122.47,609,Realmix,273-713-2282,10/29/2023,2,22720,-12,0.23,NAN,cloudy,75214
+LED Desk Lamp,Home,226.18,6855,Livetube,855-759-0778,12/7/2023,9,10582,-37,0.08,festival,foggy,16215
+Lightweight Backpacking Tent,Outdoor,408.09,7488,Quaxo,333-439-7969,4/7/2022,14,66789,-60,0.01,festival,foggy,44216
+Smart Plug,Smart Home,603.25,4376,Leexo,327-164-0325,4/21/2022,30,38675,46,0.21,festival,cloudy,57217
+Adjustable Dog Harness,Pets,864.7,4647,Quaxo,449-286-5915,3/1/2023,6,37598,-35,0.48,festival,windy,22218
+Chic Ankle Strap Heels,Clothing - Shoes,635.97,8340,Browsedrive,725-588-9425,10/19/2024,12,91480,-97,0.02,festival,sunny,79219
+Garlic & Herb Goat Cheese,Food - Dairy,446.66,7456,Tazz,783-190-1979,2/6/2024,2,76731,40,0.43,NAN,windy,38220
+Berry Smoothie Mix,Food - Frozen Foods,518.02,3186,DabZ,119-980-5384,9/30/2024,12,18557,18,0.13,festival,cloudy,20221
+Almond Flour Biscuits,Food - Bakery,100.95,4699,Edgeify,565-944-0574,8/16/2022,24,76134,57,0.01,NAN,windy,18222
+Cranberry Orange Oatmeal,Food - Breakfast,963.06,531,Rhynoodle,448-149-4417,1/24/2023,23,8720,5,0.27,festival,rainy,13223
+Camera Lens Cleaning Kit,Photography,539.43,3237,Linkbridge,985-582-5033,12/28/2022,13,69454,76,0.16,NAN,rainy,67224
+Honey,Food - Condiments,985.03,862,Dynava,168-547-7342,8/23/2024,22,19589,73,0.26,holiday,sunny,21225
+Cauliflower Crust Pizza,Food - Freezer,310.65,3018,Vidoo,675-779-2689,12/13/2024,28,96425,81,0.06,NAN,cloudy,80226
+Oven Mitts with Pocket,Kitchen,105.18,4152,Trudeo,896-208-2118,6/24/2024,18,98926,24,0.24,NAN,sunny,10227
+Smart Light Bulbs,Smart Home,184.22,1050,Yadel,141-253-4484,12/27/2023,26,27332,66,0.37,holiday,cloudy,57228
+LED Desk Lamp,Home,530.27,9801,Tagpad,566-794-3642,8/23/2023,20,31888,28,0.22,festival,foggy,16215
+Salsa Verde,Food - Condiments,618.48,6717,Feedfire,774-231-6663,6/4/2023,22,33224,51,0.36,holiday,foggy,21229
+Classic Pumps,Clothing - Footwear,601.58,2683,Rhynoodle,156-953-8761,6/26/2024,4,31034,-68,0.03,festival,cloudy,69230
+Cacao Nibs,Food - Baking,541.81,6235,Topicstorm,690-798-6770,12/10/2023,16,34212,52,0.1,festival,cloudy,47231
+Collapsible Camping Cup,Outdoor,604.33,3946,Feedmix,294-377-1383,3/18/2022,12,16665,2,0.41,festival,cloudy,44232
+Organic Quinoa Chips,Food - Snacks,288.36,4395,Browsedrive,700-782-2955,6/21/2022,13,8392,-77,0.29,NAN,cloudy,23233
+Vegan Cheese,Food - Dairy Alternatives,53.84,8265,Mydo,508-935-6872,10/30/2024,22,16192,96,0.32,holiday,sunny,81234
+Lemon Zest Olive Oil,Food - Oils & Vinegars,840.02,1911,Vinder,493-657-0592,10/28/2022,20,36191,-38,0.2,festival,rainy,82235
+Over-the-Door Shoe Organizer,Home,451.3,2400,Skimia,369-816-0357,8/18/2022,5,1545,73,0.21,holiday,windy,16236
+Pet Safety Harness,Pets,301.31,7218,Gabtune,963-544-6770,8/19/2022,28,13886,67,0.39,festival,rainy,22237
+Drone,Electronics,133.46,3120,Devshare,928-396-1308,1/29/2023,17,27446,61,0.1,festival,cloudy,17238
+Coconut Cream Pie Yogurt,Food - Dairy Alternatives,330.27,5012,Tagtune,186-297-8483,12/1/2022,1,41689,72,0.33,NAN,foggy,81239
+Repair Tool Set for Home Improvement,Tools,709.15,7839,Oyope,937-970-1025,5/22/2024,3,37290,-4,0.16,festival,foggy,58240
+Rustic Italian Bread,Food - Bakery,47.32,7544,Kazio,507-367-5325,9/12/2022,19,63019,86,0.42,holiday,foggy,18241
+Kettle Corn Popcorn,Food - Snacks,607.17,8027,Dablist,642-885-6589,2/14/2023,25,50173,45,0.1,festival,windy,23242
+Fitbit Activity Tracker,Fitness,466.03,7425,Rhyloo,981-617-3981,8/10/2022,18,93659,94,0.15,NAN,rainy,46243
+Vegan Mac & Cheese,Food - Frozen,739.64,7071,Youbridge,606-994-7165,1/24/2023,17,3478,11,0.17,holiday,cloudy,50244
+Sunglasses Case,Accessories,728.04,7766,Buzzshare,716-683-5361,11/12/2023,1,48186,25,0.32,festival,sunny,37245
+Teriyaki Stir-Fry Sauce,Food - Condiments,41.44,7801,Twitternation,141-886-0961,5/3/2022,6,62179,-15,0.33,NAN,windy,21067
+Honey Nut Cheerios,Food - Cereal,546.53,2514,Edgewire,859-836-0040,3/29/2024,4,55453,-64,0.46,festival,windy,83246
+Wall-Mounted Bookshelf,Home,861.97,8067,Oloo,886-486-3603,12/13/2022,16,61671,88,0.36,holiday,windy,16247
+Roasted Vegetable Medley,Food - Frozen Foods,456.98,9239,Zooveo,479-659-3297,1/6/2024,2,32715,-42,0.36,holiday,windy,20248
+Snap-On Tupperware Set,Kitchen,844.84,5053,Zazio,607-586-5206,1/19/2024,13,73504,-50,0.01,holiday,rainy,10249
+Spicy Hummus,Food - Deli,938.77,8780,Eazzy,243-996-7813,8/11/2022,19,43174,-14,0.31,NAN,sunny,84250
+Elegant Lace Dress,Clothing - Dresses,204.69,4233,Talane,228-118-8893,11/30/2023,28,20281,-26,0.23,festival,windy,24251
+Honey Wheat Pretzels,Food - Snacks,360.57,4072,Yadel,965-194-5696,6/9/2023,7,19146,73,0.4,festival,windy,23252
+Plant Pot Drip Trays,Garden,858.93,6557,Trupe,331-403-2265,12/12/2022,11,49753,97,0.08,festival,sunny,34253
+Wall-Mounted Organizer,Home,944.2,5501,Oyoloo,630-222-2634,5/7/2022,1,79224,7,0.28,festival,cloudy,16090
+Fruit and Nut Medley,Food - Snacks,8.83,2425,Dabfeed,138-695-0375,3/21/2024,14,8597,-40,0.07,NAN,windy,23254
+Cabbage,Food - Produce,526.52,2703,Wikido,506-398-1686,2/4/2023,11,94487,-83,0.23,NAN,windy,28255
+Cinnamon Rolls,Food - Bakery,653.91,4623,Babbleset,824-566-4582,11/6/2024,17,59217,32,0.47,NAN,sunny,18256
+Electric Heating Pad,Health,17.28,438,Flipopia,128-817-5242,8/7/2022,17,59554,-89,0.27,holiday,foggy,45257
+Yoga Blocks,Fitness,49.12,1302,Topicshots,844-341-0958,4/28/2022,30,74205,77,0.41,festival,foggy,46161
+Laptop Sleeve,Accessories,149.53,9353,Eidel,540-543-8590,9/15/2024,17,49556,-28,0.16,holiday,cloudy,37258
+Fitness Resistance Bands Kit,Fitness,149.66,1743,Vinte,467-225-1888,1/26/2022,25,98644,43,0.4,holiday,windy,46259
+Pet Water Fountain,Pets,9.72,2125,Twitterworks,505-732-2644,9/2/2022,20,81644,96,0.41,festival,windy,22260
+Pet Grooming Glove,Pets,794.86,7721,Wikivu,502-103-7813,5/7/2022,6,63369,-66,0.33,holiday,windy,22261
+Quinoa and Kale Salad Kit,Food - Salads,413.42,7629,Kanoodle,972-323-2528,1/1/2023,10,81478,89,0.24,holiday,windy,43262
+Vintage Graphic Tee,Clothing - Tops,944.09,3511,Mudo,246-989-0106,5/8/2023,19,95095,-17,0.08,festival,sunny,35263
+Kid's Fruit Snacks,Food - Snacks,557.14,8406,Skiptube,389-829-8934,9/8/2022,18,28990,-40,0.49,festival,foggy,23264
+Savory Oats,Food - Breakfast,484.43,4872,Digitube,789-934-2251,7/14/2024,19,37559,-23,0.49,holiday,rainy,13265
+Beef Taco Skillet,Food - Meal Kits,524.15,3576,Realpoint,187-590-1704,6/28/2024,2,11295,-60,0.17,festival,sunny,85266
+Board Game Storage,Toys,36.66,3437,Kwinu,314-972-2417,9/21/2023,12,29218,-35,0.1,holiday,sunny,26267
+Peanut Butter Granola,Food - Breakfast,239.32,1043,Thoughtmix,107-194-5847,6/2/2024,8,63963,79,0.33,NAN,cloudy,13268
+Gardening Gloves,Garden,845.27,5191,Wordware,635-644-3448,1/14/2022,21,70678,3,0.26,holiday,cloudy,34269
+Butternut Squash Soup,Food - Soups,177.69,168,Bubblebox,758-760-2547,7/27/2024,13,54466,30,0.42,festival,rainy,39270
+Classic Pumps,Clothing - Footwear,805.88,9131,Kamba,858-101-1221,5/10/2024,23,43527,-77,0.3,holiday,cloudy,69230
+Almond Flour Brownies,Food - Baking,916.15,4129,Meejo,561-568-3937,10/22/2024,8,50546,-15,0.32,NAN,foggy,47271
+Coconut Granola,Food - Snacks,482.97,3109,Realbridge,352-434-1191,6/27/2022,15,49973,-90,0.15,NAN,cloudy,23272
+Whole Wheat Pita Bread,Food - Bread,917.29,5080,Realcube,394-272-3020,7/21/2024,23,91486,77,0.35,festival,rainy,86273
+Baking Powder,Food - Baking Goods,0.83,6653,Yombu,166-167-7124,7/25/2022,4,68515,-65,0.28,NAN,windy,70274
+Essential Oil Diffuser,Health,520.41,120,Pixoboo,944-770-1787,9/4/2022,4,58409,89,0.42,NAN,sunny,45275
+Personal Security Alarm Keychain,Safety,191.22,2115,Thoughtblab,424-447-0262,11/13/2022,29,96191,-33,0.35,holiday,sunny,87276
+Roasted Red Pepper Sauce,Food - Sauces,544.05,340,Buzzshare,566-640-1493,9/26/2022,22,26846,99,0.44,NAN,windy,25277
+Cranberry Almond Biscotti,Food - Bakery,871.96,8673,Skyndu,513-155-3758,9/12/2023,8,57604,54,0.08,NAN,cloudy,18278
+Stick Vacuums Cleaner,Home Appliances,493.46,328,Quatz,770-563-6950,3/4/2023,21,22617,82,0.3,festival,rainy,29279
+LED Christmas Tree Lights,Home,995.59,3006,Twitterbeat,278-829-1195,5/4/2024,9,74007,-51,0.45,festival,foggy,16280
+Wireless Induction Charger,Electronics,879.32,1341,Rooxo,397-405-4267,5/4/2023,18,9917,-60,0.32,NAN,foggy,17281
+Collapsible Folding Chair,Outdoor,611.48,817,Feedfish,864-763-2123,9/12/2022,15,41528,-12,0.16,NAN,foggy,44282
+Inflatable Paddle Board,Outdoor,751.69,1547,Zoovu,663-846-3408,3/11/2022,12,57378,54,0.46,festival,foggy,44117
+Apple Juice,Food - Beverages,989.1,957,Zoovu,728-389-9926,11/22/2024,16,66246,-57,0.32,holiday,rainy,65143
+Pumpkin Pie Spice,Food - Baking,83.13,2682,Twinder,965-177-7152,1/15/2022,28,26734,-95,0.39,festival,foggy,47283
+Chiffon Blouse,Clothing - Shirts,918.58,3156,Jaxbean,603-437-7786,10/22/2022,25,86787,-56,0.35,NAN,cloudy,76284
+Apricot Jam,Food - Condiments,3.55,284,Yakitri,752-704-7959,6/30/2023,22,73869,-6,0.0,holiday,foggy,21285
+Maple Bacon Popcorn,Food - Snacks,977.92,1481,Yakijo,979-381-1652,9/1/2024,6,42936,-30,0.44,NAN,windy,23286
+Canned Coconut Milk,Food - Canned Goods,759.19,541,Oyoloo,159-322-4137,1/27/2022,11,75439,43,0.49,festival,foggy,33287
+Oven-Baked Chicken Tenders,Food - Meat,346.41,7226,Blogspan,726-466-5702,9/14/2023,23,99813,-60,0.38,NAN,windy,31030
+Bamboo Bathtub Caddy,Home,250.23,763,Yodo,933-305-3514,2/23/2022,4,47247,-58,0.48,NAN,windy,16288
+Smart Air Purifier,Home,844.53,4782,Oyoyo,789-472-0051,4/5/2022,22,71334,-17,0.36,NAN,foggy,16289
+Fitness Resistance Bands,Fitness,990.99,4791,Kaymbo,322-813-7385,4/30/2023,2,90836,25,0.19,festival,foggy,46290
+Smartphone Projector,Electronics,33.9,9053,Photolist,551-831-9882,6/25/2022,17,79091,13,0.36,holiday,rainy,17291
+Energy Protein Bars,Food - Snacks,836.49,6078,Rhyloo,559-758-5776,3/9/2022,1,9909,35,0.14,holiday,sunny,23292
+Cauliflower Gnocchi,Food - Frozen Foods,144.21,9154,Yotz,907-638-5047,10/23/2024,3,75050,-65,0.33,festival,rainy,20158
+Peanut Butter,Food - Condiments,387.15,1402,Camido,237-517-6343,4/9/2022,19,57307,26,0.3,festival,cloudy,21293
+Digital Thermostat,Home,302.46,2693,Chatterbridge,315-561-5832,1/22/2022,23,78137,33,0.43,NAN,rainy,16294
+Non-Stick Grill Pan,Kitchen,454.15,5268,Blogtag,579-633-8272,8/24/2023,1,78979,-62,0.46,festival,rainy,10295
+Radish Chips,Food - Snacks,788.16,1214,Lajo,217-643-2584,5/25/2024,3,72049,83,0.01,festival,cloudy,23296
+Portable Phone Charger,Accessories,53.38,8201,Devbug,176-134-2299,3/23/2022,28,74090,-78,0.46,holiday,windy,37297
+Kettle BBQ Grill,Outdoor,537.98,5429,Livepath,979-606-4220,8/24/2022,9,54353,-88,0.21,holiday,sunny,44298
+Cranberry Almond Biscotti,Food - Bakery,680.59,2540,Youtags,496-245-6325,8/23/2023,12,7506,-59,0.14,holiday,rainy,18278
+Luxe Velvet Blazer,Clothing - Outerwear,241.64,6711,Jazzy,720-708-3947,9/12/2024,5,74594,-41,0.37,NAN,rainy,64299
+Smart WiFi Plug,Smart Home,955.21,4332,Realbridge,281-463-7957,9/27/2024,9,23179,-23,0.09,holiday,cloudy,57300
+Protein Powder,Fitness,318.17,5495,Bubblemix,357-517-8520,5/31/2022,22,4412,-9,0.07,NAN,cloudy,46301
+Shredded Cheese,Food - Dairy,82.76,8957,Zoomlounge,545-926-9916,4/29/2022,23,93619,-29,0.46,festival,rainy,38302
+Chickpea Salad,Food - Prepared Foods,353.13,1468,Zoonder,686-450-6022,2/8/2024,17,88625,-63,0.29,holiday,rainy,75303
+Artisan Cornbread Mix,Food - Baking,978.73,3368,Yakidoo,848-753-5649,2/7/2024,14,86377,55,0.47,NAN,cloudy,47149
+Thai Coconut Curry Sauce,Food - Condiments,695.85,9379,Dabvine,992-579-3832,9/9/2022,19,54737,85,0.19,holiday,sunny,21304
+Noise-Canceling Earbuds,Audio,713.21,6367,Gigazoom,852-787-2210,11/3/2023,13,56436,-26,0.41,NAN,sunny,49305
+Brussels Sprouts,Food - Produce,958.66,9143,Edgeify,313-993-0081,1/26/2022,19,1951,-94,0.11,festival,rainy,28306
+Video Camera,Electronics,622.7,8603,Browsebug,767-203-5322,5/12/2024,27,83087,36,0.22,NAN,sunny,17132
+Multi-Function Smartphone Holder,Electronics,703.03,4824,Ntags,440-113-3683,2/20/2022,17,95458,-57,0.38,festival,cloudy,17307
+Personal Blender with Travel Lid,Kitchen,204.01,745,Wordpedia,515-363-6636,4/5/2024,13,74220,-14,0.39,holiday,sunny,10308
+Wrist Support Brace,Health,144.04,2749,Edgewire,268-126-2676,3/17/2023,22,66760,62,0.35,festival,cloudy,45309
+Honey Garlic Chicken,Food - Meat,14.11,9445,Zoombox,324-802-4748,7/8/2022,9,54589,54,0.43,NAN,foggy,31310
+Wireless Music Receiver,Audio,635.62,5902,Wikizz,581-276-9687,1/18/2024,1,40767,63,0.35,NAN,cloudy,49311
+Fitness Resistance Bands Kit,Fitness,652.3,5928,Realcube,233-403-9257,5/31/2023,16,76863,-88,0.12,festival,cloudy,46259
+Coffee Subscription Service,Food,106.61,3499,Realcube,909-168-4911,3/12/2024,5,74456,62,0.43,NAN,rainy,88312
+Skincare Fridge,Beauty,75.7,5417,Rhynoodle,186-232-8255,2/17/2023,5,93944,-19,0.05,festival,rainy,71313
+Yoga Strap,Fitness,646.58,8208,Twinder,773-331-6225,2/6/2022,20,81473,36,0.27,festival,foggy,46314
+Vanilla Almond Granola,Food - Breakfast,280.48,396,Vidoo,382-876-7257,6/10/2022,10,6012,74,0.04,holiday,cloudy,13315
+Garden Hoses with Expandable Features,Garden,997.76,1807,Meetz,454-580-6426,9/12/2022,12,69088,92,0.35,NAN,windy,34316
+Bamboo Charcoal Air Purifier Bags,Home,111.4,158,Yodel,274-932-4417,2/7/2022,7,23170,-43,0.19,NAN,foggy,16317
+Peanut Butter Banana Smoothie,Food - Beverages,404.45,8550,Vitz,655-677-0515,1/14/2024,23,1791,32,0.43,festival,windy,65318
+Mini Indoor Hydroponic Garden,Garden,518.43,2688,Photobug,971-533-4822,4/19/2023,6,49033,-42,0.22,festival,windy,34319
+Sunglasses,Accessories,979.02,5691,Fadeo,260-561-3312,8/7/2023,3,56383,-23,0.06,festival,windy,37091
+Herb Seasoned Croutons,Food - Salad Toppings,20.2,5202,Buzzshare,924-655-9551,12/14/2023,22,55906,70,0.45,festival,windy,89320
+Collapsible Camping Cup,Outdoor,645.54,9790,Kazio,969-429-6468,6/27/2022,2,78079,-33,0.39,holiday,cloudy,44232
+Foot Spa Bath Massager,Health,3.45,9196,Bluejam,340-735-4964,8/27/2023,17,71787,50,0.21,festival,foggy,45321
+Fresh Cilantro,Food - Produce,773.75,7370,Wikivu,510-457-5305,8/6/2024,18,85238,-93,0.34,festival,sunny,28116
+Portable Massage Table,Health,936.61,955,Gabtune,162-496-2765,10/16/2024,15,95026,81,0.36,holiday,sunny,45322
+Coconut Yogurt,Food - Dairy Alternatives,317.04,2619,Trupe,814-390-0646,10/15/2024,19,54456,0,0.26,festival,sunny,81323
+Electric Ice Cream Maker,Kitchen,20.12,6083,Trudoo,416-329-0890,11/28/2022,20,80250,57,0.02,holiday,foggy,10324
+Spicy Thai Noodles,Food - Frozen Meals,236.5,6659,Oyoba,769-858-5821,6/19/2024,26,78217,58,0.23,holiday,rainy,73325
+Tortilla Chips,Food - Snacks,759.88,2757,Brainlounge,849-294-5736,5/6/2022,25,96234,28,0.5,NAN,sunny,23326
+Butternut Squash Ravioli,Food - Frozen Foods,276.11,772,Ailane,507-503-5794,5/16/2022,5,50936,24,0.29,NAN,rainy,20327
+Children's Musical Instrument Set,Toys,296.71,362,Mybuzz,867-409-9898,11/1/2024,5,55824,30,0.17,NAN,sunny,26328
+Electric Pressure Washer,Home Improvement,120.78,8213,Cogidoo,454-565-1568,3/14/2024,8,76548,36,0.5,holiday,cloudy,90329
+Pineapple Coconut Yogurt,Food - Dairy,249.82,429,Yata,200-461-0026,4/2/2022,22,8831,-15,0.05,holiday,foggy,38330
+Carrot and Celery Sticks,Food - Produce,981.22,9477,Ntag,381-410-6869,4/7/2022,12,64044,15,0.01,NAN,rainy,28331
+Fruit Medley Juice,Food - Beverages,453.1,5980,Kare,431-174-7262,10/26/2023,6,94218,70,0.45,festival,sunny,65332
+Chocolate Mint Cookies,Food - Baking,706.53,4856,Rhybox,977-825-6050,8/25/2023,30,31797,10,0.37,festival,foggy,47333
+Customizable Photo Calendar,Books,186.12,5489,Teklist,917-370-8400,12/9/2022,1,43842,-29,0.35,holiday,rainy,91334
+Recipe Book Stand,Kitchen,495.85,5873,Skyvu,626-692-9021,3/7/2023,5,92818,23,0.26,holiday,rainy,10335
+Poppy Seed Dressing,Food - Condiments,300.03,2376,Tagfeed,608-404-3766,3/8/2024,9,69672,-45,0.38,NAN,foggy,21336
+Casual Sneakers,Clothing - Footwear,962.44,4213,Blogtags,416-733-7087,5/19/2023,29,95815,-47,0.12,NAN,sunny,69337
+Dark Chocolate Almond Butter Cups,Food - Snacks,764.58,9228,Flashdog,232-537-1444,11/19/2023,13,61037,34,0.04,NAN,windy,23338
+Dark Chocolate Almond Butter Cups,Food - Snacks,823.31,3380,Topicshots,629-502-9231,10/17/2022,21,50910,-55,0.28,NAN,windy,23338
+Mini Electric Kettle,Kitchen,339.87,5031,Yadel,585-189-7149,12/18/2024,24,40877,-62,0.28,NAN,cloudy,10339
+Oven Thermometer,Kitchen,803.03,4865,Edgepulse,853-934-2134,5/8/2022,23,93389,-24,0.44,festival,foggy,10340
+Classic Leather Wallet,Clothing - Accessories,85.59,4025,Twitternation,497-919-3832,9/21/2022,17,68822,52,0.15,NAN,cloudy,63341
+Garden Hose Reel,Garden,618.41,2905,Devify,602-888-4806,8/2/2023,2,47577,71,0.33,holiday,rainy,34342
+Kids' Outdoor Explorer Kit,Toys,568.86,5397,Mynte,381-442-4574,2/15/2022,1,40727,-57,0.35,NAN,windy,26029
+Portable Solar Phone Charger,Electronics,47.22,1368,Oloo,344-600-7113,2/13/2023,4,16732,-36,0.14,NAN,rainy,17343
+Grilled Veggie Burgers,Food - Meat Alternatives,642.41,7192,Mydeo,184-840-8677,5/26/2022,23,9296,63,0.5,NAN,windy,92344
+High-Speed HDMI Cable,Electronics,966.87,9874,Fivechat,954-714-6557,4/20/2022,28,84983,-14,0.06,festival,windy,17066
+Digital Wireless Camera,Home Security,615.88,8802,Trilia,999-599-3262,12/9/2022,12,94798,-25,0.1,festival,foggy,93345
+Classic Black Trousers,Clothing - Pants,393.32,344,Linktype,496-938-7676,10/5/2022,15,94551,32,0.24,holiday,windy,94346
+Almond Flour Tortillas,Food - Baking & Cooking,255.52,9762,Skalith,243-520-2135,8/7/2024,16,32825,-90,0.43,festival,cloudy,95347
+Chocolate Hazelnut Spread,Food - Spreads,841.7,8638,Yacero,288-761-8345,4/5/2023,26,99593,51,0.46,festival,windy,96348
+Vegetable Pizza Rolls,Food - Frozen Foods,414.77,6030,Photospace,510-411-6581,5/26/2023,9,41914,69,0.46,festival,sunny,20349
+Insulated Coffee Mug,Kitchen,270.13,8039,Abatz,223-387-1484,12/4/2022,5,46189,12,0.17,NAN,sunny,10350
+Miso Soup Starter,Food - Soups,372.89,7989,Gevee,235-963-9561,12/21/2022,27,27034,-97,0.45,festival,cloudy,39085
+Children's Backpack,Accessories,117.81,3651,Blogtags,584-653-9083,12/21/2024,2,94535,58,0.29,holiday,sunny,37351
+Herb Seasoned Rice,Food - Sides,735.39,2408,Rhyloo,551-275-4893,9/8/2022,14,27065,15,0.32,festival,cloudy,97352
+Customizable Wall Calendar,Office,881.99,8961,Thoughtstorm,933-300-7078,8/25/2022,24,80662,25,0.11,holiday,rainy,61353
+Portable Massage Gun,Health,181.48,7252,Midel,765-681-2403,3/2/2024,12,71713,-90,0.14,holiday,cloudy,45354
+Pet Safety Harness,Pets,362.39,4021,Brainverse,649-592-2073,5/15/2022,23,27543,83,0.34,NAN,sunny,22237
+Organic Tomato Soup,Food - Canned Goods,349.85,2680,Zoomdog,448-191-4178,12/9/2024,29,44905,-2,0.15,NAN,cloudy,33355
+Cranberry Almond Granola,Food - Breakfast,129.7,7394,Bubblemix,917-195-5653,11/23/2022,10,45615,-15,0.21,festival,sunny,13356
+Rainbow Veggie Chips,Food - Snacks,986.71,4714,Oyondu,919-310-3583,11/10/2023,22,27868,25,0.17,festival,sunny,23357
+Recipe Book Stand,Kitchen,77.55,6610,Gigaclub,553-305-3540,7/17/2023,6,31574,81,0.13,festival,rainy,10335
+Whole Chicken,Food - Meat,657.73,6349,Riffwire,569-225-5764,6/22/2023,28,34561,88,0.34,holiday,windy,31358
+Luxe Velvet Blazer,Clothing - Outerwear,408.4,3815,Feedspan,882-460-8201,3/12/2023,6,29303,53,0.16,festival,cloudy,64299
+Dark Chocolate Covered Pretzels,Food - Snacks,226.7,1980,Realbridge,422-398-3199,3/26/2024,16,1045,-75,0.27,festival,windy,23359
+Marinara Parmesan Baked Ziti,Food - Frozen Meals,882.19,9457,Wordify,207-115-7455,2/4/2023,15,59405,-16,0.16,NAN,rainy,73167
+Portable Camping Shower,Outdoor,449.07,7826,Kamba,967-844-0468,8/15/2022,20,52783,-100,0.28,holiday,cloudy,44360
+Olive Oil,Food - Condiments,828.64,7424,Tanoodle,152-857-3240,11/26/2023,27,38175,23,0.17,holiday,windy,21361
+Kids' Activity Book,Books,474.06,7033,Browsedrive,750-983-1921,5/11/2022,17,4537,100,0.5,holiday,sunny,91362
+Rechargeable Electric Screwdriver,Tools,719.8,5937,Oyoloo,915-443-0532,2/25/2022,2,26097,-17,0.18,festival,foggy,58363
+Mediterranean Chickpea Salad,Food - Salads,303.94,2240,Babbleopia,208-694-1278,8/6/2024,26,11182,-96,0.29,festival,rainy,43364
+Bamboo Cutting Board Set,Kitchen,281.02,3356,Meemm,589-297-9172,11/2/2023,21,36415,-48,0.41,holiday,foggy,10365
+Mini Fondue Set,Kitchen,752.94,6837,Realcube,940-778-0486,10/2/2023,25,86642,71,0.15,holiday,rainy,10366
+Wireless Gaming Mouse,Gaming,307.79,550,Flashspan,527-585-3614,8/6/2024,14,20260,-27,0.22,holiday,windy,19367
+Maple Chipotle Glaze,Food - Condiments,247.14,7711,Thoughtsphere,302-497-3951,7/12/2023,5,64994,32,0.07,holiday,windy,21213
+Granola Clusters,Food - Cereal,106.72,8426,Mydeo,350-581-6424,5/15/2024,2,53265,-11,0.3,holiday,cloudy,83368
+Creamy Garlic Dressing,Food - Condiments,31.87,6273,Agimba,754-384-3604,7/17/2024,14,45627,17,0.29,NAN,rainy,21369
+Chipotle Black Bean Burger,Food - Meats,715.84,3722,Skivee,306-802-4424,4/6/2023,27,54003,-88,0.12,festival,sunny,98370
+Pumpkin Spice Latte Mix,Food - Beverages,719.95,711,Viva,710-607-0434,4/5/2022,28,34366,-47,0.29,NAN,cloudy,65371
+Balsamic Vinaigrette,Food - Dressings,872.73,4135,Yodo,756-829-6105,4/1/2023,21,82853,-49,0.46,holiday,cloudy,99372
+Collapsible Camping Cup,Outdoor,120.1,2663,Trunyx,681-971-5149,8/3/2022,20,86056,71,0.46,festival,foggy,44232
+Chocolate Hazelnut Granola,Food - Cereal,799.24,8836,Kare,755-600-7568,11/24/2024,29,16124,-11,0.15,NAN,windy,83373
+Chickpea Salad,Food - Prepared Foods,632.24,7635,Wikizz,685-344-2904,11/30/2024,25,66065,41,0.1,festival,windy,75303
+Mango Chunks,Food - Frozen Fruits,370.87,5939,Blogpad,324-258-9586,7/5/2023,28,93679,-10,0.3,NAN,rainy,100374
+Kids' Building Blocks,Toys,980.61,6582,Chatterbridge,480-667-2808,4/15/2022,30,84754,0,0.27,holiday,rainy,26026
+Cinnamon Roll Protein Bar,Food - Snacks,502.11,4018,Fivebridge,969-351-8058,8/2/2024,13,7627,-51,0.17,holiday,foggy,23375
+Guitar Tuner,Music,143.19,1191,Quatz,770-996-6975,9/3/2022,27,99629,82,0.18,festival,foggy,36036
+Portable Speakers,Audio,891.13,9887,Midel,288-306-0594,7/9/2023,22,73903,-50,0.24,NAN,foggy,49376
+Wrap Front Midi Skirt,Clothing - Bottoms,3.78,7011,Quamba,809-757-7878,11/17/2024,14,14997,4,0.23,festival,foggy,52377
+Honey,Food - Condiments,764.75,5318,Vidoo,742-870-2137,2/4/2024,15,42663,-72,0.46,NAN,sunny,21225
+Luxury Bath Salts,Beauty,667.19,5617,Zoomcast,109-223-3210,11/28/2024,14,43305,25,0.37,NAN,sunny,71163
+Eco-Friendly Stainless Steel Straws,Kitchen,308.84,8631,DabZ,921-866-3624,5/12/2023,24,74011,94,0.0,holiday,rainy,10378
+Buttermilk Pancakes,Food - Breakfast,36.55,681,Shufflester,686-548-9162,4/6/2024,8,35093,58,0.2,NAN,foggy,13379
+Casual Long Cardigan,Clothing - Outerwear,284.88,7137,Fadeo,576-855-6091,1/16/2024,23,18729,72,0.05,NAN,foggy,64380
+Multicolored LED Strip Lights,Home,37.91,6459,Jabbersphere,851-536-0494,10/1/2023,20,92345,-59,0.03,NAN,cloudy,16381
+Peanut Butter Cookies,Food - Bakery,229.64,5995,Twitterwire,313-114-5903,12/3/2022,26,61443,92,0.35,festival,windy,18382
+Hibiscus Tea Bags,Food - Beverages,85.54,4481,Tavu,488-717-7403,1/31/2024,13,97742,-34,0.11,holiday,windy,65383
+Sriracha Honey Glaze,Food - Sauces,274.03,1048,Wikibox,727-395-3162,7/17/2024,25,96526,-12,0.0,festival,cloudy,25018
+Organic Coconut Sugar,Food - Baking Goods,880.49,7850,Podcat,537-241-5746,3/12/2022,19,47949,10,0.39,NAN,cloudy,70153
+Tomato Paste,Food - Canned Goods,275.93,8854,Dabfeed,204-638-7832,5/24/2023,8,63395,39,0.3,holiday,sunny,33384
+Jalapeño Cornbread,Food - Bakery,727.06,250,Shuffletag,968-917-9400,3/16/2023,16,93734,25,0.3,NAN,cloudy,18076
+Collapsible Folding Chair,Outdoor,52.99,5925,Centizu,579-319-7067,1/31/2023,30,92277,-42,0.45,holiday,rainy,44282
+Electric Pressure Cooker,Kitchen,488.99,2727,Photobug,305-950-0409,3/11/2022,25,38928,68,0.06,holiday,windy,10385
+Garlic & Herb Goat Cheese,Food - Dairy,439.37,4550,Quatz,780-939-0906,5/5/2023,7,25875,-52,0.29,holiday,windy,38220
+Portable Leaf Blower,Outdoor,549.43,4753,Jetwire,142-362-9752,5/31/2023,6,56770,70,0.02,festival,windy,44386
+Reflective Safety Vest,Safety,313.36,5635,Twimbo,245-396-4681,11/1/2022,13,89301,91,0.46,festival,sunny,87387
+Mediterranean Olives,Food - Condiments,579.57,645,Voomm,230-906-0788,6/11/2022,15,13737,20,0.13,NAN,sunny,21388
+Rolling Cooler,Outdoor,740.18,5164,Yodoo,143-741-0335,12/30/2022,7,2797,-66,0.09,NAN,rainy,44389
+High-Quality Yoga Block,Fitness,242.76,5455,Leenti,263-844-5403,12/16/2022,15,63443,100,0.19,NAN,foggy,46390
+Sliced Turkey Breast,Food - Deli Meats,402.88,878,Talane,318-557-3185,4/7/2022,15,29326,18,0.32,holiday,windy,101391
+Crispy Onion Rings,Food - Frozen Foods,932.42,8498,Feedspan,369-727-6286,2/14/2023,13,3268,-72,0.41,festival,foggy,20392
+Portable Leaf Blower,Outdoor,31.9,4696,Quamba,976-514-9238,7/30/2024,4,69409,37,0.44,holiday,cloudy,44386
+Air Purifier,Home,803.54,6041,Oyoloo,618-672-6275,6/28/2022,30,14083,10,0.35,NAN,rainy,16393
+Wireless Game Controller,Gaming,361.63,1094,Rhyzio,654-301-8835,9/14/2023,30,34466,63,0.14,festival,cloudy,19394
+Safety First Aid Kit,Health,66.23,3522,Eire,857-523-6635,1/1/2022,4,68902,-75,0.18,festival,windy,45395
+Magnetic Whiteboard,Office,429.68,4536,Talane,846-774-4173,12/12/2022,2,28915,45,0.05,NAN,foggy,61109
+Electric Meat Grinder,Kitchen,235.66,2803,DabZ,891-595-4375,9/2/2024,24,76669,-84,0.41,festival,rainy,10396
+Frozen Mixed Berries,Food - Frozen Foods,305.31,7158,Linkbuzz,392-664-9470,10/17/2024,7,30002,21,0.33,NAN,foggy,20397
+Herb Garden Planter Box,Garden,97.98,6134,Browsezoom,840-339-8642,7/17/2024,19,6531,-12,0.3,holiday,cloudy,34398
+Pleated Midi Dress,Clothing - Dresses,762.78,7398,Fanoodle,771-955-8013,7/23/2022,20,35007,83,0.06,NAN,rainy,24399
+Tahini,Food - Condiments,111.36,862,Vitz,187-419-6936,1/20/2022,17,9514,-52,0.39,holiday,rainy,21400
+Shredded Cheese,Food - Dairy,205.94,6711,Shufflebeat,436-892-2596,1/13/2024,25,41885,21,0.37,holiday,windy,38302
+Gardening Gloves,Garden,988.74,1000,Eazzy,680-529-1898,4/30/2023,3,44065,67,0.19,NAN,foggy,34269
+Watercolor Paint Set,Art Supplies,487.91,2607,Quinu,526-443-3598,11/4/2022,5,83506,-53,0.12,NAN,windy,102401
+Stainless Steel Straws,Kitchen,938.5,154,Jamia,898-702-7450,9/15/2022,25,16561,7,0.45,NAN,windy,10114
+Travel Eye Mask with Ear Plugs,Travel,229.7,7583,Flipopia,395-849-5604,11/30/2024,4,24414,36,0.14,holiday,windy,51402
+Frozen Chicken Nuggets,Food - Frozen Foods,513.48,2104,Buzzshare,207-465-7954,4/6/2022,13,36478,-18,0.05,festival,windy,20403
+Heavy-Duty Utility Tote,Accessories,545.57,280,Feedbug,595-535-9119,9/13/2022,6,61584,32,0.03,festival,cloudy,37404
+Multi-Purpose Plant Care Tool,Garden,915.82,3774,LiveZ,989-340-6281,12/15/2024,21,8114,-59,0.16,NAN,windy,34405
+Sea Salt Caramel Popcorn,Food - Snacks,548.82,9595,Blogspan,496-542-8828,7/19/2022,8,2342,98,0.03,NAN,cloudy,23406
+Cauliflower Pizza Crust,Food - Frozen Foods,451.17,7539,Brainlounge,473-626-0344,3/28/2023,1,30216,-96,0.03,NAN,cloudy,20407
+Foot Massager,Health,889.1,6264,Skippad,669-907-5052,5/4/2024,4,68199,48,0.38,festival,cloudy,45408
+Fitness Tracker Watch,Wearable Tech,239.49,68,Skyba,378-791-1975,8/2/2022,12,11289,59,0.11,NAN,foggy,103409
+Video Camera,Electronics,966.11,6484,Meetz,205-932-0205,4/16/2022,8,87965,-38,0.07,holiday,cloudy,17132
+Spicy Tuna Rolls,Food - Seafood,365.84,2749,Trilia,453-581-7288,4/13/2023,2,99072,-87,0.1,holiday,rainy,55410
+Cold Brew Coffee Maker,Kitchen,589.54,2741,Meedoo,617-735-1835,11/2/2024,21,42842,57,0.02,festival,cloudy,10411
+Pumpkin Waffles,Food - Breakfast,98.51,9576,Realblab,856-604-4658,7/18/2022,19,45218,55,0.48,holiday,sunny,13101
+Sports Windbreaker,Clothing - Outerwear,487.04,3384,Jaxbean,712-944-8423,7/6/2023,22,20859,75,0.14,holiday,windy,64412
+Smart Light Switch,Smart Home,741.73,6101,Vitz,126-317-0170,12/27/2023,14,34632,28,0.02,festival,sunny,57088
+Mechanical Pencil Set,Office,532.17,1854,Zoombeat,697-668-7253,4/6/2023,16,27669,-17,0.02,festival,rainy,61413
+Faux Fur Coat,Clothing - Coats,969.11,2920,Yoveo,825-377-8940,9/8/2022,17,30369,-32,0.5,holiday,cloudy,104414
+Stainless Steel BBQ Grill Set,Outdoor,188.9,2842,Dynava,203-888-2696,12/31/2022,7,10609,-68,0.43,festival,cloudy,44415
+DIY Candle Kit,Crafts,31.66,852,Plambee,305-459-3294,6/3/2024,7,45502,-78,0.12,NAN,foggy,53074
+Acoustic Guitar,Music,918.51,9463,Nlounge,645-956-1108,1/5/2022,5,93315,-97,0.07,holiday,cloudy,36416
+Travel Beach Blanket,Outdoor,864.36,5648,Edgeclub,928-369-2067,2/9/2024,10,76846,-67,0.06,festival,cloudy,44417
+Almond Crunch Granola Bars,Food - Snacks,553.7,6539,Brainlounge,242-831-8506,6/4/2023,19,81891,45,0.17,holiday,rainy,23418
+Almond Flour Cookies,Food - Bakery,322.77,1899,Skidoo,375-863-8666,2/5/2023,21,64203,54,0.45,NAN,foggy,18419
+Coconut Granola,Food - Snacks,452.19,3873,Aimbu,760-443-2177,3/17/2022,11,80305,-67,0.12,NAN,windy,23272
+Pasta Primavera,Food - Frozen Foods,189.05,8127,Trunyx,282-294-6160,7/6/2023,7,76813,-99,0.42,NAN,sunny,20011
+Peanut Butter Pretzel Bites,Food - Snacks,860.1,598,Gigashots,922-256-5177,9/26/2023,24,60338,46,0.39,holiday,foggy,23154
+Window Blinds,Home,810.26,663,Realfire,661-802-2866,4/15/2022,25,57781,39,0.41,festival,cloudy,16420
+Honey Sesame Chicken Mix,Food - Frozen Meals,589.07,4300,Feedspan,238-497-1065,1/16/2023,4,43293,41,0.31,holiday,rainy,73421
+USB Desk Fan,Home,19.63,9582,Feedfish,592-824-2318,1/21/2022,3,36565,30,0.39,NAN,foggy,16422
+Fleece Lined Leggings,Clothing,158.01,8040,Tavu,358-553-4087,6/29/2023,5,78998,-4,0.33,holiday,sunny,15423
+Pork Tenderloin,Food - Meat,402.2,679,Realfire,261-748-0753,7/21/2022,4,86855,70,0.45,holiday,foggy,31424
+Honey Glazed Carrots,Food - Produce,475.68,998,Oyoba,348-326-3335,2/21/2024,9,16606,94,0.33,holiday,sunny,28097
+Compact Umbrella,Accessories,964.75,2900,Tazz,624-475-2593,4/22/2024,16,52329,-36,0.09,holiday,rainy,37112
+Biodegradable Dog Waste Bags,Pets,489.05,5557,Flipbug,566-692-1468,9/19/2024,10,20340,-88,0.01,holiday,rainy,22425
+Solar Power Bank,Electronics,418.48,2627,Myworks,801-223-4130,9/20/2024,2,38876,93,0.46,holiday,foggy,17426
+Hydration Backpack,Outdoor,661.26,6061,Mudo,509-607-8510,4/25/2024,5,24604,43,0.38,NAN,foggy,44427
+Chili Garlic Sauce,Food - Condiments,857.91,4221,Twiyo,577-398-9144,11/17/2023,8,48997,-90,0.18,NAN,sunny,21428
+Suction Cup Hooks,Home,684.94,9326,Jazzy,964-233-2492,5/8/2024,24,45617,71,0.08,holiday,foggy,16429
+Apple Juice,Food - Beverages,594.87,4305,Feednation,991-289-0771,5/25/2023,22,56360,5,0.49,holiday,cloudy,65143
+Luxury Rolling Makeup Case,Beauty,433.71,8886,Meevee,366-106-3366,11/20/2022,15,60503,-88,0.05,NAN,windy,71430
+Dog Training Clicker,Pets,797.16,8127,Yamia,796-263-3692,2/28/2024,14,53470,-85,0.04,NAN,windy,22431
+Chocolate Raspberry Tart,Food - Bakery,448.43,4838,Zooveo,796-290-6822,12/16/2022,19,55003,-33,0.26,holiday,sunny,18432
+Plant Watering Spikes,Garden,163.66,8063,Yadel,531-619-7841,5/17/2023,7,50535,-64,0.31,festival,cloudy,34433
+Car Escape Tool,Automotive,899.63,2996,Thoughtbridge,556-718-6912,5/29/2022,28,6425,-60,0.18,holiday,cloudy,56108
+Vegetable Lentil Soup,Food - Canned Goods,845.86,6090,Kanoodle,645-863-6772,7/15/2023,30,37782,-92,0.24,holiday,windy,33434
+Stainless Steel Travel Mug,Kitchen,816.41,4880,Eadel,219-169-3921,1/24/2022,17,79588,42,0.12,festival,rainy,10435
+Coffee Subscription Service,Food,629.47,5119,Yozio,586-929-1675,3/6/2023,29,96164,-39,0.12,NAN,cloudy,88312
+Watercolor Paint Set,Art Supplies,935.97,8846,Oba,943-852-7612,4/7/2022,26,60200,-68,0.39,holiday,foggy,102401
+Smartphone Gimbal Stabilizer,Photography,506.87,3451,Reallinks,590-823-9711,7/23/2024,8,98882,14,0.42,holiday,rainy,67436
+Silicone Baking Mat,Kitchen,299.74,4831,Skiba,425-990-2867,12/8/2022,13,46534,-15,0.34,holiday,rainy,10437
+Balsamic Vinegar,Food - Condiments,879.49,4756,Lazz,765-947-3263,7/17/2024,21,27707,-49,0.14,festival,rainy,21438
+Organic Coconut Sugar,Food - Baking Goods,289.36,1990,Shufflebeat,392-783-4099,4/24/2024,14,72163,79,0.03,holiday,windy,70153
+Pecan Nuts,Food - Snacks,619.27,6110,Photojam,714-891-3296,11/9/2023,3,30636,-39,0.45,NAN,rainy,23439
+Cable Knit Cardigan,Clothing - Outerwear,936.95,8215,Youfeed,507-401-3134,7/9/2023,8,25810,47,0.35,festival,foggy,64440
+Canned Black Beans,Food - Canned Goods,599.82,1019,Skipfire,975-499-3239,9/15/2024,18,44185,-16,0.43,NAN,windy,33441
+Smart Thermostat with Wi-Fi,Smart Home,656.28,933,Talane,703-956-6713,7/2/2022,22,13750,99,0.02,festival,foggy,57442
+Lentil Vegetable Stew,Food - Canned Soups,413.27,2747,Tagchat,481-768-6169,2/2/2023,8,432,-63,0.24,NAN,sunny,105443
+Inflatable Party Cooler,Outdoor,377.06,6400,Shuffletag,325-585-0470,7/5/2024,9,58480,27,0.1,holiday,windy,44444
+Patterned Knit Scarf,Clothing - Accessories,560.39,4234,Youspan,615-751-1089,7/19/2024,27,48209,-82,0.34,holiday,cloudy,63445
+Basketball,Sports,805.34,7900,Zoomzone,843-968-4093,9/20/2024,29,24812,45,0.32,holiday,foggy,32446
+Luxury Bathrobe,Clothing,100.01,6647,Twimbo,442-812-7502,6/16/2024,23,76885,33,0.22,festival,cloudy,15006
+Digital Kitchen Timer,Kitchen,485.27,9969,Zoovu,197-788-6415,12/22/2024,11,13384,-62,0.35,holiday,rainy,10447
+Wooden Puzzle Game,Toys,807.13,6051,Dynabox,456-605-0655,11/28/2023,2,75202,66,0.22,NAN,rainy,26448
+Smart Thermos,Fitness,69.18,7864,Riffwire,816-783-9060,5/3/2024,29,41646,-69,0.21,festival,cloudy,46449
+Organic Almonds,Food - Nuts,777.0,6086,Jabbertype,841-635-7480,12/22/2023,21,98169,-91,0.27,holiday,rainy,48450
+Smart Plug,Smart Home,140.33,5853,Meembee,368-383-2787,12/31/2022,19,47478,-85,0.37,NAN,cloudy,57217
+Fresh Basil,Food - Produce,515.17,5104,Mynte,171-950-3447,4/29/2024,30,77300,-99,0.34,NAN,foggy,28451
+Organic Tomato Ketchup,Food - Condiments,296.7,2363,Zoombeat,300-698-9706,3/17/2024,8,61915,-63,0.35,holiday,rainy,21452
+Garden Tool Set with Carrying Bag,Garden,830.56,2475,Twimbo,242-134-8010,11/5/2023,7,43738,43,0.35,NAN,windy,34453
+Digital Kitchen Timer,Kitchen,737.78,6759,Fliptune,173-730-9155,4/21/2024,21,75699,-33,0.43,NAN,sunny,10447
+Maple Almond Granola,Food - Breakfast,631.9,144,Meejo,273-132-7887,1/16/2022,7,54625,-49,0.28,NAN,cloudy,13454
+Pet Hair Removal Brush,Pets,94.87,2510,Rhyzio,752-369-2981,12/30/2024,18,11782,68,0.48,holiday,cloudy,22455
+Ultra-Thin Laptop Sleeve,Accessories,413.57,8852,Devshare,692-224-0451,5/16/2024,21,54681,-26,0.04,holiday,rainy,37456
+Organic Almonds,Food - Nuts,767.95,6991,Ooba,119-968-9951,8/27/2023,28,85573,-10,0.5,festival,sunny,48450
+Honey Sesame Cashews,Food - Snacks,12.02,8210,Skilith,523-587-8229,8/17/2022,10,12777,24,0.41,festival,sunny,23457
+Almond Joy Munch Bars,Food - Snacks,278.78,7828,Latz,608-571-8944,10/7/2023,28,61629,89,0.38,holiday,cloudy,23458
+Kitchen Knife Sharpening System,Kitchen,472.72,8628,Yamia,559-294-5624,4/19/2023,22,53326,-95,0.1,holiday,windy,10459
+Caramel Sauce,Food - Condiments,228.1,4773,Linkbuzz,185-243-3706,12/24/2024,9,84289,-80,0.23,NAN,foggy,21155
+Organic Coconut Sugar,Food - Baking Goods,918.91,5908,Twiyo,801-534-1251,6/29/2022,27,94470,51,0.31,festival,sunny,70153
+Vegetable Korma,Food - Frozen,350.27,5998,Avavee,488-404-9842,4/13/2024,6,59127,-1,0.1,holiday,foggy,50460
+Pet Training Pads,Pets,708.53,7391,Dynabox,155-747-7287,8/26/2022,1,3321,41,0.24,festival,rainy,22461
+Magnetic Phone Case,Accessories,495.75,1394,Skimia,536-501-8319,4/11/2024,22,49608,54,0.25,NAN,foggy,37462
+Compact Umbrella,Accessories,337.85,4040,Cogidoo,163-246-4826,3/24/2022,27,46122,-75,0.29,NAN,sunny,37112
+Kids' Science Experiment Kit,Toys,378.79,6207,Voomm,367-556-4841,5/19/2022,20,43258,-56,0.42,festival,cloudy,26187
+Non-Slip Yoga Socks,Fitness,222.17,7171,Quatz,870-416-9534,11/23/2023,14,59282,22,0.21,holiday,windy,46463
+Biodegradable Dog Waste Bags,Pets,744.2,3886,Linktype,572-604-1546,12/7/2024,11,17234,-68,0.11,holiday,cloudy,22425
+Classic Bagels,Food - Bakery,246.53,9408,Zoomzone,208-507-5260,10/27/2024,19,18665,3,0.25,festival,sunny,18464
+Nail Polish Set,Beauty,291.28,3344,Twinte,571-238-1901,10/9/2024,25,24759,-68,0.37,NAN,rainy,71465
+Spicy Roasted Nuts,Food - Snacks,458.9,5075,Devshare,407-863-8366,10/4/2024,30,95428,-17,0.16,festival,rainy,23466
+Wireless Printer,Office,733.13,9526,Vimbo,895-940-1916,5/5/2024,18,94061,60,0.38,NAN,sunny,61467
+Almond Flour Biscuits,Food - Bakery,56.11,9709,Innojam,460-739-9430,6/19/2024,26,3084,-20,0.34,holiday,cloudy,18222
+Luxe Velvet Blazer,Clothing - Outerwear,982.79,9032,Skynoodle,878-250-4742,10/17/2023,11,23995,46,0.24,NAN,cloudy,64299
+Organic Tomato Soup,Food - Canned Goods,846.73,3007,Gigazoom,963-240-3422,8/9/2022,13,73524,-29,0.41,NAN,foggy,33355
+Free-Range Eggs,Food - Dairy,599.15,6647,Wikido,731-456-3894,12/7/2023,8,48410,-99,0.01,holiday,sunny,38468
+Apple Cinnamon Granola,Food - Breakfast,695.64,3291,Voonix,305-351-5755,11/26/2023,15,61902,10,0.08,NAN,windy,13469
+Smart Doorbell,Smart Home,744.48,6954,Gigazoom,960-342-2238,1/7/2024,10,36769,56,0.1,festival,foggy,57470
+Organic Almonds,Food - Nuts,797.37,5393,Skinder,835-367-2918,7/31/2022,28,49843,-52,0.06,NAN,foggy,48450
+Cold Brew Coffee Concentrate,Food - Beverages,308.74,1234,Flipbug,470-938-2412,7/3/2024,6,67438,-53,0.22,NAN,cloudy,65130
+Vegetable Lentil Soup,Food - Canned Goods,414.05,6327,Skalith,654-772-8306,6/20/2023,27,49023,22,0.11,NAN,sunny,33434
+Electric Griddle,Kitchen,599.21,8444,Gabcube,139-277-4661,6/18/2023,22,98931,96,0.39,holiday,sunny,10471
+Cauliflower Crust Pizza,Food - Freezer,275.87,1406,Oba,907-315-9581,3/14/2023,12,56694,-50,0.12,holiday,rainy,80226
+Organic Green Apples,Food - Produce,773.43,398,Oyoyo,962-966-5004,10/7/2023,30,46883,3,0.03,NAN,cloudy,28472
+Outdoor Mosquito Repellent Lantern,Outdoor,711.85,1156,Dabjam,379-372-2119,3/3/2024,15,41087,-26,0.02,festival,cloudy,44473
+Insulated Cooler,Outdoor,9.54,9377,Blogtag,590-527-6181,6/24/2023,3,16950,29,0.0,NAN,sunny,44474
+Chickpea Pasta,Food - Pasta,552.68,6801,Thoughtsphere,212-208-5918,12/17/2022,2,92925,83,0.32,holiday,rainy,12475
